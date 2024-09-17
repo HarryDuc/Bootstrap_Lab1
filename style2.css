@@ -1,0 +1,26 @@
+html .row{
+  margin: 0;
+  padding: 0;
+}
+.header {
+  background-color: #826b6bbf;
+  padding: 20px;
+}
+.main-content .row img {
+  border: 1px solid;
+  width: 80%;
+  height: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.main-content .row p {
+  text-align: center;
+}
+.main-content .row button {
+  width: 60px;
+  height: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
